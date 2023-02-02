@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @ananingfosu
+- 👋 Hi, welcome to my space. 
 - 👀 I’m interested in web development and UI Designing
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web and UI design projects
-- 📫 How to reach me ... Email: ananingfosu@gmail.com
+-     Experienced using AdobeXD, Photoshop
+-     Proficient in HTML, CSS (SASS), Javascript
+- 🌱 I’m currently learning Flutter for mobile development
+- 💞️ I'm always open to collabrating with other developer and designers
+- 📫 Here how to reach me ... Email: ananingfosu@gmail.com
 

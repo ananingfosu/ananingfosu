@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to my space. 
+- 👋 Hi, akwaaba, welcome to my space. 
 - 👀 I’m interested in Web Development and UI Designing.
 -     Experienced using Figma, AdobeXD, Photoshop, VsCode
 -     Proficient in HTML, CSS (SASS), Javascript

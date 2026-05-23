@@ -4,10 +4,10 @@
 
 ## About Me
 
-CS graduate from KNUST (2023) with a builder's mindset. I sit at the intersection of design and technology — I design interfaces people enjoy using, build web products with AI-assisted tools
+CS graduate from KNUST (2023) with a builder's mindset. I sit at the intersection of design and development of technology
+I design interfaces people enjoy using, build web products and actively finding the best technology to work efficiently
 
 - 🎨 15+ UI/UX & design projects on Dribbble and Behance
-- 💻 Vibe coder — I build real, deployed apps with tools like Cursor, Windsurf, Base44, Antigravity and Claude
 - 🌍 Focused on building products that work for African markets
   
 ---
